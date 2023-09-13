@@ -1,7 +1,7 @@
 # Sales-Insights
 
 This repository contains the files related to a self project done using SQL and PowerBI. Below is a brief description of the files -
-* [db_dump.sql](Sales-Insights/db_dump.sql) - data containing the details of transactions done during along with other related details
-* [db_dump_version_2.sql](Sales-Insights/db_dump_version_2.sql) - Additional data containing profit margin and relevant details were added
-* [si_youtube.pbix](Sales-Insights/si_youtube.pbix) - Initial report of the sales insights
-* [si_youtube_updated_after_feedback.pbix](Sales-Insights/si_youtube_updated_after_feedback.pbix) - Final report of the sales insights after receiving feedback
+* [db_dump.sql](https://github.com/tanudenwal/Sales-Insights/db_dump.sql) - data containing the details of transactions done during along with other related details
+* [db_dump_version_2.sql](https://github.com/tanudenwal/Sales-Insights/db_dump_version_2.sql) - Additional data containing profit margin and relevant details were added
+* [si_youtube.pbix](https://github.com/tanudenwal/Sales-Insights/si_youtube.pbix) - Initial report of the sales insights
+* [si_youtube_updated_after_feedback.pbix](https://github.com/tanudenwal/Sales-Insights/si_youtube_updated_after_feedback.pbix) - Final report of the sales insights after receiving feedback
