@@ -5,3 +5,11 @@ This repository contains the files related to a self project done using SQL and 
 * [db_dump_version_2.sql](https://github.com/tanudenwal/Sales-Insights/blob/main/db_dump_version_2.sql) - Additional data containing profit margin and relevant details were added
 * [si_youtube.pbix](https://github.com/tanudenwal/Sales-Insights/blob/main/si_youtube.pbix) - Initial report of the sales insights
 * [si_youtube_updated_after_feedback.pbix](https://github.com/tanudenwal/Sales-Insights/blob/main/si_youtube_updated_after_feedback.pbix) - Final report of the sales insights after receiving feedback
+
+## Final Report
+* **Key Insights**
+  ![](https://xp.io/storage/1jEhuza1.png) 
+* **Profit Analysis**
+  ![](https://xp.io/storage/1jEjKb4e.png) 
+* **Performance Insights**
+  ![](https://xp.io/storage/1jElGXpk.png) 
