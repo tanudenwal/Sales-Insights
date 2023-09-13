@@ -1,6 +1,6 @@
 # Sales-Insights
 
-# **Purpose of the Project**
+### **Purpose of the Project**
 To unlock sales insights that are not visible before sales team for decision support and automate them to reduce manual time spent.
 
 This repository contains the files related to a self project done using SQL and PowerBI. Below is a brief description of the files -
